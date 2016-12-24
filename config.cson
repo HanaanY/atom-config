@@ -1,0 +1,13 @@
+"*":
+  core:
+    telemetryConsent: "limited"
+  editor:
+    atomicSoftTabs: false
+    fontSize: 9
+    invisibles: {}
+    showIndentGuide: true
+    showInvisibles: true
+    tabLength: 3
+    tabType: "hard"
+  "exception-reporting":
+    userId: "556fbf1a-1aa3-a055-e2a7-fa738a91db10"
